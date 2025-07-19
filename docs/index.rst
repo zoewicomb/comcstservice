@@ -1,5 +1,10 @@
 Access and Manage Your Account – Log Into My Comcast Email Account on Any Device
 =================================================================================
+.. raw:: html
+
+    <a class="reference external image-reference" href="#">
+        <img alt="" class="align-center" src="_images/Get-Started-Now.png" style="width: 350px; height: 100px;" />
+    </a>
 
 Looking to **Log Into My Comcast Email Account** and access your inbox on a computer, smartphone, or tablet? Whether you're checking mail on the go or managing communication from your home office, this guide walks you through every step of accessing and using your Comcast email across devices.
 
