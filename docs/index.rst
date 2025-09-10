@@ -11,7 +11,7 @@ Looking to **Log Into My Comcast Email Account** and access your inbox on a comp
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://deskcomcast.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Comcast Page</a>
+       <a href="https://comcastxfn.protectbase.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Go with Comcast Page</a>
    </div>
 
 If you’ve been searching for how to **Log Into My Comcast Email Account**, you’re not alone. Many Comcast (Xfinity) users struggle with email access, password recovery, or syncing their inbox to multiple platforms. The good news? You can easily **Log Into My Comcast Email Account** using the official Xfinity portal or an email app with just a few simple steps.
@@ -202,3 +202,4 @@ Whether you're at home or on the go, it's easier than ever to **Log Into My Comc
 By configuring mobile access, enabling security features, and organizing your inbox, you’ll get the most out of your Comcast email service. And don’t forget—if anything goes wrong, there are always built-in recovery tools and support links to help you get back in.
 
 Stay connected, stay secure, and enjoy your seamless Comcast email experience.
+
